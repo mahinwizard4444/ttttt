@@ -5,7 +5,7 @@
   <b>🤖 Sᴘɪᴅᴇʀ Mᴀɴ</b>
 </h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/Spider-Man-Auto-filter-Tg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/SpiderManAutofilter)
 
 ## Features
 
