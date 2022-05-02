@@ -9,7 +9,7 @@ caption = """
 **✅ Logo Generated Successfully
 Made With ❤ BY @BX_Botz**
     """
-logo creator
+#logo creator
 @Client.on_message(filters.command("logo"))
 async def on_off_antiarab(_, message: Message):
     text = message.text.split(None, 1)[1]
